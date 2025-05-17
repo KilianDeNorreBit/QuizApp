@@ -1,0 +1,20 @@
+{
+  "questions": [
+    {
+      "question": "Wie is deze voetballeralles?",
+      "answers": ["Neymar", "Messi", "Yamal", "Kimpembe"],
+      "correct": "Yamal",
+      "image": "https://assets.voetbalzone.nl/images/v3/blteaf9f17df66e0127/GOAL%20-%20Blank%20WEB%20-%20Facebook%20-%202025-02-13T113447.510.png?quality=60&auto=webp&format=pjpg&width=1400"
+    },
+    {
+      "question": "Which planet is known as the Red Planet2alles?",
+      "answers": ["Earth", "Venus", "Mars", "Jupiter"],
+      "correct": "Mars"
+    },
+    {
+      "question": "Who wrote 'To Kill a Mockingbird'2alles?",
+      "answers": ["Harper Lee", "Mark Twain", "Ernest Hemingway", "F. Scott Fitzgerald"],
+      "correct": "Harper Lee"
+    }
+  ]
+}
