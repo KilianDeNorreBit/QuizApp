@@ -1,9 +1,12 @@
 {
+  "homepage": "https://KilianDeNorreBit.github.io/QuizApp/",
   "name": "react-native-quiz-app",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "expo start --web"
+    "start": "expo start --web",
+    "build": "expo build:web",
+    "deploy": "gh-pages -d web-build"
   },
   "dependencies": {
     "expo": "~50.0.0",
