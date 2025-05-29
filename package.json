@@ -6,7 +6,7 @@
   "scripts": {
     "start": "expo start --web",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d web-build",
+    "deploy": "gh-pages -d build",
     "build": "expo export:web"
   },
   "dependencies": {
