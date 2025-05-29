@@ -493,13 +493,13 @@
   "type": "open",
   "question": "Welke theoretische natuurkundige benadering probeert de elementaire deeltjes en krachten in het universum te verklaren als trillende eendimensionale objecten?",
   "correct": ["String Theory","snaartheorie","stringtheorie"],
-  "image": "https://static.wikia.nocookie.net/warner-bros-entertainment/images/2/2d/Sheldon_Cooper.jpg/revision/latest?cb=20220406225928",
+  "image": "https://www.advancedsciencenews.com/wp-content/uploads/2022/08/Grid-portal-on-a-black-background.jpg",
   "round": "R5"
 },
 {
   "type": "open",
   "question": "Wat is de echte naam van de Belgische YouTuber die bekendstaat onder het pseudoniem Acid en vaak maatschappelijke kwesties aankaart op zijn kanaal?",
-  "correct": ["Nathan Vandergunst"],
+  "correct": ["Nathan Vandergunst","Vandergunst"],
   "image": "https://image.demorgen.be/255409065/width/2480/nathan-vandergunst-aka-acid-screenshot-uit-video-meest-getalenteerde",
   "round": "R5"
 },
@@ -520,7 +520,7 @@
 {
   "type": "open",
   "question": "Welke Ierse auteur, bekend van romans als 'Normal People' en 'Conversations with Friends', staat bekend om haar scherpe observaties van moderne relaties en sociale klasse?",
-  "correct": ["Sally Rooney"],
+  "correct": ["Sally Rooney","Rooney"],
   "image": "https://prod-img.standaard.be/public/nieuws/v27qa9-sally-rooney-27-lef.-patrick-bolger/alternates/THREE_TWO_1620/Sally%20Rooney%2027%20lef.%20Patrick%20Bolger",
   "round": "R5"
 },
