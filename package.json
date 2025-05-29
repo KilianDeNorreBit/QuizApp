@@ -5,8 +5,10 @@
   "main": "index.js",
   "scripts": {
     "start": "expo start --web",
-    "build": "expo build:web",
-    "deploy": "gh-pages -d web-build"
+    "predeploy":"npm run build",
+    "deploy": "gh-pages -d web-build",
+    "build": "expo build:web"
+    
   },
   "dependencies": {
     "expo": "~50.0.0",
